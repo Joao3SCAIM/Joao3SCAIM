@@ -29,7 +29,8 @@ Trilha Sonora: Mac Miller no repeat.
 Filosofia de Vida: "Se você tem que fazer mais de duas vezes, automatize."
 
 📫 Como me encontrar:
-LinkedIn: [https://www.linkedin.com/in/jo%C3%A3o-escaim-630197352/]
+LinkedIn: [https://www.linkedin.com/in/jo%C3%A3o-escaim-630197352/]                                                                                                                       
+
 Email : [joao.escaim@outlook.com]
 
 "A programação é a arte de dizer a um computador o que fazer. A depuração é a arte de descobrir por que ele fez exatamente o contrário."
