@@ -1,36 +1,47 @@
-☕ Olá, mundo! Eu sou o João.
-Analista de Sistemas, entusiasta de automação e mestre em transformar café (e dieta vegetariana) em scripts de Python que funcionam (na maioria das vezes). Atualmente, estou focado em projetos de RPA, BI e em garantir que o meu Corsa 2004 continue firme e forte.
+<div align="center">
+  <h2>Olá! Eu sou o João 👋</h2>
+  <p><b>Analista de Sistemas Pleno | Especialista em Automação (RPA) & Python</b></p>
+  <p>
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-escaim-630197352/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:joao.escaim@outlook.com">
+      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </p>
+</div>
 
-🛠️ No meu "Cinto de Utilidades":
-Linguagens: Python (Selenium, Playwright, Pandas, PyAutoGUI) & SQL.
+---
 
-Data & Dashboards: Power BI (DAX é meu melhor amigo/pior inimigo).
+---
 
-Criatividade: Blender, Unity e um pouco de magia com Geometry Nodes.
+### 💻 Stack Tecnológico & Ferramentas
 
-Hardware: Nikon D5200 no ombro e um mouse gamer na mão.
+**Linguagens & Engenharia de Dados:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 
-🚀 O que estou fazendo agora?
-🎓 Finalizando a graduação em Análise e Desenvolvimento de Sistemas (Estácio).
+**Automação, Scraping & APIs:**  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Smartsheet API](https://img.shields.io/badge/API_Integration-005073?style=for-the-badge&logo=json&logoColor=white)
 
-🤖 Construindo robôs que fazem o trabalho chato para que eu possa focar no que importa.
+**Hardware, IoT & Ambientes:**  
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-📸 Editando vídeos e fotos entre um commit e outro.
+**Modelagem 3D & Motores Gráficos:**  
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-🚗 Tentando entender por que aquela luz do painel do Corsa acendeu de novo.
 
-🎬 Curiosidades Rápidas
-Dieta: 100% vegetariano, 0% carne, 200% batata frita.
 
-Diretor Favorito: Quentin Tarantino (sim, eu já assisti Kill Bill mais vezes do que deveria).
+### 📊 Minhas Estatísticas no GitHub
 
-Trilha Sonora: Mac Miller no repeat.
-
-Filosofia de Vida: "Se você tem que fazer mais de duas vezes, automatize."
-
-📫 Como me encontrar:
-LinkedIn: [https://www.linkedin.com/in/jo%C3%A3o-escaim-630197352/]                                                                                                                       
-
-Email : [joao.escaim@outlook.com]
-
-"A programação é a arte de dizer a um computador o que fazer. A depuração é a arte de descobrir por que ele fez exatamente o contrário."
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=radical"/>
+</div>
