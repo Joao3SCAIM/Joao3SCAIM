@@ -52,7 +52,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Joao3SCAIM&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao3SCAIM&layout=compact&langs_count=7&theme=radical" alt="Linguagens Mais Usadas" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joao3SCAIM&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas Gerais" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao3SCAIM&layout=compact&langs_count=7&theme=radical&locale=pt-br" alt="Linguagens Mais Usadas" />
+</p>
